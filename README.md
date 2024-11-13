@@ -1,6 +1,6 @@
-# pract_ices
+# The Xylophone
 
-A new Flutter project.
+Play Your Melody
 
 ## Getting Started
 
